@@ -14,7 +14,7 @@ const Footer = () => {
           maxWidth="1024px"
           height={16}
         >
-          <p>Eman Sarah Afi • © 2024</p>
+          <p>Anurag Shaw • © 2025</p>
         </Flex>
       </footer>
     </Box>
