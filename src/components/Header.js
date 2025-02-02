@@ -15,16 +15,16 @@ const socials = [
   },
   {
     icon: faGithub,
-    url: "https://github.com/emansarahafi/",
+    url: "https://github.com/Anurag-git04",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/emansarahafi/",
+    url: "https://www.linkedin.com/in/anuragshaw04/",
   },
-  {
-    icon: faStackOverflow,
-    url: "https://stackoverflow.com/users/23097342/eman-sarah-afi",
-  },
+  // {
+  //   icon: faStackOverflow,
+  //   url: "https://stackoverflow.com/users/23097342/eman-sarah-afi",
+  // },
 ];
 
 const Header = () => {

@@ -5,32 +5,32 @@ import Card from "./Card";
 
 const projects = [
   {
-    title: "Development of a Smart Crop Monitoring System",
+    title: "Job Portal Application",
     description:
-      "This capstone project is about developing a smart crop monitoring system that records information about the farm and crops, such as the soil's temperature, salinity & pH levels, etc. And the collected data can be viewed on an HTML website & an iOS application named MoniCrop. The following tools were used: Raspberry Pi 4B, pressure sensors, HTML, PHP, Python, SwiftUI & XCode.",
-    getImageSrc: () => require("../images/MoniCrop.jpg"),
-    url: "https://aubh.figshare.com/articles/thesis/Development_of_a_Smart_Crop_Monitoring_System/24314056/2",
+      "A job portal app that connects job seekers with employers, providing a seamless platform for job searching, applications, and recruitment. It offers user-friendly features like resume uploads, job alerts, and employer dashboards for efficient hiring.",
+    getImageSrc: () => require("../images/jobportal.png"),
+    url: "https://github.com/Anurag-git04/mswd-.git",
   },
   {
-    title: "EcoEats",
+    title: "Neflix Clone",
     description:
-      "EcoEats is a MERN stack web application that is developed for the Web Software Development course (CS324) and it is a food waste management system where restaurants can sell their leftover food items for a much cheaper price.",
-    getImageSrc: () => require("../images/EcoEats.jpg"),
-    url: "https://github.com/emansarahafi/EcoEats",
+      "A Netflix clone app that allows users to stream movies and TV shows with a sleek UI, featuring categories, search functionality, and a responsive video player. Built with modern web technologies for a seamless viewing experience.",
+    getImageSrc: () => require("../images/Netflix.png"),
+    url: "https://github.com/Anurag-git04/fullstack_netfleix",
   },
   {
-    title: "Machine Learning Algorithms for Predicting Breast Cancer",
+    title: "E-commerce App Using Redux",
     description:
-      "The project, from the Introduction to Machine Learning & Data Analytics (CMPE 390) course, was regarding using MATLAB to apply different machine learning techniques to a provided dataset to compare their coefficients and performance measures predicting whether the cancer is benign or malignant according to a provided Wisconsin dataset involving breast cancer diagnosis.",
-    getImageSrc: () => require("../images/MLBC.jpg"),
-    url: "https://github.com/emansarahafi/MLBreastCancerPrediction",
+      "A frontend eCommerce app with Redux for state management, featuring product listings, a cart system, and a basic login for user authentication. Built for a smooth shopping experience with dynamic UI updates.",
+    getImageSrc: () => require("../images/Ecommerce.jpg"),
+    url: "https://e-commerce-redux-sigma.vercel.app/",
   },
   {
-    title: "AUBH Lost & Found System",
+    title: "Todo List Backend project",
     description:
-      "For the Windows Programming (CMPE 361) course's final project, a lost and found items application for our university, the American University of Bahrain (AUBH), has been developed. The following tools were used for the implementation: JavaFX, CSS, FXML, Eclipse & SceneBuilder.",
-    getImageSrc: () => require("../images/LFS.jpg"),
-    url: "https://github.com/emansarahafi/LostAndFoundSystem",
+      "A backend project for a todo list app, built with Node.js and Express. It features RESTful APIs for CRUD operations on tasks, with MongoDB for data storage. The app is designed to be scalable and efficient for managing tasks.",
+    getImageSrc: () => require("../images/Todo.png"),
+    url: "https://github.com/Anurag-git04/todo_backend",
   },
 ];
 
